@@ -1,0 +1,16 @@
+# Copyright (c) 2024 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+einops==0.7.0
+imageio==2.31.2
+matplotlib==3.5.3
+modelscope==1.4.2
+numpy==1.21.6
+open_clip_torch==2.24.0
+opencv_contrib_python==4.9.0.80
+Pillow==10.2.0
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.66.1
+pytorch-lightning

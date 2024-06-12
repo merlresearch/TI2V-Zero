@@ -1,0 +1,5 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: framework.png examples/northern_lights_sd.jpg examples/panda_dancing_sd.png
+Copyright: 2024 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
